@@ -1,0 +1,18 @@
+.header-content{
+    min-height: 75vh;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZDOiy-wHG-q8fb6bprbUZbwc75UZezwD0A&usqp=CAU") 
+    center/cover no-repeat; 
+    flex-direction: column;
+    
+}
+.header-title{
+    font-size: 4.2rem;
+}
+
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    font-weight: bold;
+    font-style: italic;
+    max-width: 770px;
+}

@@ -1,0 +1,58 @@
+.bookshelf{
+    width: 100%;
+}
+.bookshelf .flex-row{
+    margin: 3rem 2rem;
+}
+.bookshelf .flex-row .p-2{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2rem 10rem;
+    max-width: 12rem;
+    min-width: 12rem;
+    max-height: 20rem;
+    min-height: 21rem;
+    overflow: hidden;
+}
+.bookshelf .flex-row .p-2 img{
+    object-fit: scale-down;
+    width: 10rem;
+    height: 12.5rem;
+    margin-top: -1rem;
+}
+.bookshelf .flex-row .p-2 h5{
+    line-height: -10px;
+    width: 20px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.bookshelf .flex-row .p-2 small{
+    width: 16px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    transform: translateY(-5px);
+}
+.bookshelf .flex-row .p-2 button{
+    transition: all 0.2s ease;
+    visibility: hidden;
+    padding: 0px;
+}
+.bookshelf .flex-row .p-2:hover{
+    height:10rem;
+}
+.bookshelf .flex-row .p-2:hover button{
+    visibility: visible;
+    transform: translateY(5rem);
+}
+.bookshelf .flex-row .p-2 .remove {
+    background-color: palevioletred;
+}
+.bookshelf .flex-row .p-2 .remove{
+    background-color: red;
+    color: white;
+}
+.bookshelf .flex-row .p-2 .add{
+    background-color: green;
+    color: white;
+}

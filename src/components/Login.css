@@ -1,0 +1,44 @@
+form{
+    justify-content: center;  
+    width: 100%;
+    max-width: 680px; 
+}
+input{
+    padding: 0.2rem;    
+}
+.login-form-elem .form-control::placeholder{
+    opacity: 0.9;
+    color: black;
+}
+.login-form-elem .form-control{
+    font-size: 2rem;
+    padding: 0.6rem;
+}
+.login-form-elem{
+    padding: 1.4rem 2.8rem;
+    border-radius: 3.8rem;
+    background-color: grey;
+}
+.login-form-elem .login{
+  background-color: darkred; /* Green */
+  border: none;
+  border-radius: 1rem;
+  color: white;
+  margin-top: 4%;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#login {
+    margin-top: 7rem;
+    margin-left: 30rem;
+    justify-content: center;
+    width: 100%;
+    max-width: 680px;
+    border-radius: 0.3rem;
+    margin-bottom: 9rem;
+}
+

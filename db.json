@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "lord",
+      "password": "lord",
+      "bookshelf": [
+        {
+          "kind": "books#volume",
+          "id": "xoXmmQnDusoC",
+          "etag": "YdhAHeuabRQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/xoXmmQnDusoC",
+          "volumeInfo": {
+            "title": "How to Illustrate and Design Concept Cars",
+            "authors": [
+              "Adrian Dewey"
+            ],
+            "publisher": "Veloce Publishing Ltd",
+            "publishedDate": "2011-11-15",
+            "description": "The automobile seems to be as popular now as it ever was. Posters of cars still adorn many a child’s bedroom wall, and school exercise books are full of doodles of cars. This book takes those notebook sketches and teaches you how to develop them into the car designs you see in magazines. Using simple to follow step-by-step drawings it guides you from pencil sketch to marker rendering, from doodle to highly visual computer generated artwork. Adrian Dewey has worked on designs as diverse as small sports cars to double decker buses, modified motors to concept Formula 1 cars, using various techniques and styles. In this book, he uses his knowledge of the different styles to guide the reader in creating great artwork and designs of their own. The book shows in detail how to use different materials and how to get the most out of each one, whether it be a great pencil sketch or a photo realistic vector illustration. The book also features an easy to follow index for quick reference on different types of drawing.",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9781845844660"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "1845844661"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": false
+            },
+            "pageCount": 128,
+            "printType": "BOOK",
+            "categories": [
+              "Reference"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.2.2.0.preview.2",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=xoXmmQnDusoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=xoXmmQnDusoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=xoXmmQnDusoC&printsec=frontcover&dq=Cars&hl=&cd=4&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=xoXmmQnDusoC&dq=Cars&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Illustrate_and_Design_Concept_Car.html?hl=&id=xoXmmQnDusoC"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/How_to_Illustrate_and_Design_Concept_Car-sample-epub.acsm?id=xoXmmQnDusoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=xoXmmQnDusoC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Posters of cars still adorn many a child’s bedroom wall, and school exercise books are full of doodles of cars. This book takes those notebook sketches and teaches you how to develop them into the car designs you see in magazines."
+          }
+        }
+      ]
+    }
+  ]
+}
